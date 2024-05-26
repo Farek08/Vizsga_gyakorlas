@@ -1,0 +1,16 @@
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Gyakorlas_Console.exe
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Files\cars.json
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Files\owners.json
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Gyakorlas_Console.deps.json
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Gyakorlas_Console.runtimeconfig.json
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Gyakorlas_Console.dll
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\bin\Debug\net6.0\Gyakorlas_Console.pdb
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.AssemblyInfoInputs.cache
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.AssemblyInfo.cs
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.csproj.CoreCompileInputs.cache
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.dll
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\refint\Gyakorlas_Console.dll
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.pdb
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\Gyakorlas_Console.genruntimeconfig.cache
+D:\2024.05.22_Gyakorlas\Gyakorlas_Console\Gyakorlas_Console\obj\Debug\net6.0\ref\Gyakorlas_Console.dll
